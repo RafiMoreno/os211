@@ -4,3 +4,5 @@
 ZCZC W00 10 L03 Github related
 ZCZC W01 10 L06 Reading os01 Slides
 ZCZC W01 90 L11 Completing Week 1 Assignment 1
+ZCZC W01 60 L12 Read Linux, Bash Tutorial for Beginners
+ZCZC W01 30 L13 Trying out Linux and Vim Basic Commands
