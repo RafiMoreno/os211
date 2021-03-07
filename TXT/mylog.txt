@@ -6,3 +6,6 @@ ZCZC W01 10 L06 Reading os01 Slides
 ZCZC W01 90 L11 Completing Week 1 Assignment 1
 ZCZC W01 60 L12 Read Linux, Bash Tutorial for Beginners
 ZCZC W01 30 L13 Trying out Linux and Vim Basic Commands
+ZCZC W01 30 L14 Setting Up ".bash_aliases"
+ZCZC W01 20 L15 Setting Up Git and Cloning GitHub Repos
+ZCZC W01 3 L16 Updating mylog.txt
