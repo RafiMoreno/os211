@@ -17,3 +17,6 @@ ZCZC W02 100 L02 Weekly Class
 ZCZC W02 20 L10 Generating, Importing and Exporting Key
 ZCZC W02 30 L10 Generate SHA256SUM and SHA256SUM.asc
 ZCZC W02 30 L10 Create top 10 list for week2 (unfinished)
+ZCZC W02 120 L10 Finish my top 10 list for week 02
+ZCZC W02 10 L10 Create myrank.txt
+ZCZC W02 2 L10 Update mylog.txt
