@@ -4,3 +4,4 @@
 # Weekly Assignments
  * [W01](https://rafimoreno.github.io/os211/W01)
  * [W02](https://rafimoreno.github.io/os211/W02)
+ * [W03](https://rafimoreno.github.io/os211/W03)
