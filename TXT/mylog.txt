@@ -28,3 +28,9 @@ ZCZC W03 60 L10 Create top 10 list for week 3 (unfinished)
 ZCZC W03 2 L10 Update mylog.txt
 ZCZC W03 60 L10 Finishing top 10 list for week 3
 ZCZC W03 2 L10 Update mylog.txt
+ZCZC W04 100 L02 Weekly Class
+ZCZC W04 20 L10 Assignment
+ZCZC W04 2 L10 Update mylog.txt
+ZCZC W04 10 L10 Update myrank.txt
+ZCZC W04 2 L10 Update mylog.txt
+ZCZC W04 160 L10 Assignment
