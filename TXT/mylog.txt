@@ -34,3 +34,7 @@ ZCZC W04 2 L10 Update mylog.txt
 ZCZC W04 10 L10 Update myrank.txt
 ZCZC W04 2 L10 Update mylog.txt
 ZCZC W04 160 L10 Assignment
+ZCZC W05 100 L02 Weekly Class
+ZCZC W05 65 L10  Assignment
+ZCZC W05 150 L10 Assignment
+ZCZC W05 3 L10 Update mylog.txt
