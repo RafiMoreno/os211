@@ -38,3 +38,7 @@ ZCZC W05 100 L02 Weekly Class
 ZCZC W05 65 L10  Assignment
 ZCZC W05 150 L10 Assignment
 ZCZC W05 3 L10 Update mylog.txt
+ZCZC W06 100 L02 Weekly Class
+ZCZC W06 60 L10 Assignment
+ZCZC W06 20 L22 Watching Videos for Top 10 List
+ZCZC W06 150 L10 Assignment
