@@ -8,3 +8,4 @@
  * [W04](https://rafimoreno.github.io/os211/W04)
  * [W05](https://rafimoreno.github.io/os211/W05)
  * [W06](https://rafimoreno.github.io/os211/W06)
+ * [W07](https://rafimoreno.github.io/os211/W07)
