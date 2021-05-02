@@ -42,3 +42,9 @@ ZCZC W06 100 L02 Weekly Class
 ZCZC W06 60 L10 Assignment
 ZCZC W06 20 L22 Watching Videos for Top 10 List
 ZCZC W06 150 L10 Assignment
+ZCZC W07 100 L02 Weekly Class
+ZCZC W07 120 L10 Assignment
+ZCZC W07 60 L10 Assignment (W07 Report 2)
+ZCZC W07 5 L10 Demo
+ZCZC W07 120 L10 Create Top 10 List
+ZCZC W07 5 L10 Update mylog and myrank
