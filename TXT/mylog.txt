@@ -48,3 +48,8 @@ ZCZC W07 60 L10 Assignment (W07 Report 2)
 ZCZC W07 5 L10 Demo
 ZCZC W07 120 L10 Create Top 10 List
 ZCZC W07 5 L10 Update mylog and myrank
+ZCZC W08 100 L02 Weekly Class
+ZCZC W08 30 L00 Quiz Selasa
+ZCZC W08 30 L00 Quiz Kamis
+ZCZC W08 150 L10 Weekly Assignment W08
+ZCZC W08 90 L10 Top 10 List
