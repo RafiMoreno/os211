@@ -53,3 +53,7 @@ ZCZC W08 30 L00 Quiz Selasa
 ZCZC W08 30 L00 Quiz Kamis
 ZCZC W08 150 L10 Weekly Assignment W08
 ZCZC W08 90 L10 Top 10 List
+ZCZC W09 100 L02 Weekly Class
+ZCZC W09 120 L10 Top 10 List
+ZCZC W09 420 L10 W09 Assignments (LFS Ch5-Ch7_7)
+
